@@ -1,0 +1,2 @@
+### The application is a game. It is an iteration of Simon says where the player follows the sequence of colors that are shown on their browser.
+* The execution of the project can be seen on the code file together with this readme file
