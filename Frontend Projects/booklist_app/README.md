@@ -1,0 +1,2 @@
+### A simple front-end application that enables the users to encode the Title of the Book, The Author, and the ID.
+### This Application can be further expanded by adding a back-end to end to permanently save the entry.
